@@ -22,5 +22,8 @@ The goal of the assignment was to practice:
 ---
 
 ##API
-I used the **OpenWeatherMap Current Weather Data API**:
+I used the **OpenWeatherMap Current Weather Data API**
+
+**VERCEL LINK**
+https://101543366-comp3123-labtest2.vercel.app/
 
